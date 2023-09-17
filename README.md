@@ -39,7 +39,7 @@ There are many things that can be improved, but it can be a good idea to start a
 
 ## Preview
 
-![This is the Project Preview](https://www.github.com/JaxxBalyit/Resume/blob/main/assets/chat-app.png?raw=true)
+![This is the Project Preview](https://github.com/JaxxBalyit/Resume/blob/main/assets/chat-app.png?raw=true)
 This is the preview of the project.
 
 ## Authors
