@@ -48,7 +48,7 @@ This is the preview of the project.
 
 ## Feedback
 
-If you want to give feedback or other project ideas, I'll leave the next links:
+If you want to give feedback or other project ideas, I'll leave the next links for you to contact me:
 
-- [Github Profile](https://www.github.com/JaxxBalyit)
 - [Resume with Contact Me](https://jaxxbalyit.github.io/Resume)
+- [My Personal Email](mailto:chavez.emmanuel020310@gmail.com)
